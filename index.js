@@ -1,4 +1,4 @@
-const fillElement = () => {
+const fillElement = (text) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 

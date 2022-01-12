@@ -1,4 +1,4 @@
-function fillElement() {
+const fillElement = () => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
